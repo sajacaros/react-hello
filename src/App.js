@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import MyComponent from './ch03/MyComponent07';
+import Say from './ch03/Say2';
 
 function App() {
-  return <MyComponent name={'3'} favoriteNumber={10}>hello</MyComponent>;
+  return <Say />;
 }
 
 export default App;
