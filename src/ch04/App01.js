@@ -1,5 +1,5 @@
 import React from 'react';
-import EventPractice from './ch04/EventPractice06';
+import EventPractice from './EventPractice01';
 
 const App = () => {
   return <EventPractice />
